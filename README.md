@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RenoyLakeman
-- 👀 I’m interested in ... Software engineering and machine learning
-- 🌱 I’m currently learning ... Java script 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Software engineering and Front end development 
+- 🌱 I’m currently learning Java and Python  
+- 💞️ I’m looking to collaborate on ... front end projects 
 - 📫 How to reach me ...renoylakeman@gmail.com
 
 <!---
